@@ -2,17 +2,6 @@
 Changelog for package ros2cli_common_extensions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.5.1 (2025-07-01)
-------------------
-* Update CMakeLists.txt (`#11 <https://github.com/ros2/ros2cli_common_extensions/issues/11>`_)
-* Contributors: mosfet80
-
-0.5.0 (2025-04-25)
-------------------
-
-0.4.0 (2024-04-26)
-------------------
-
 0.3.0 (2023-04-28)
 ------------------
 

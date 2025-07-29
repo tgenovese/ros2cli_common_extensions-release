@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:tgenovese/ros2cli_common_extensions-release.git
 tracks:
   foxy:
     actions:
